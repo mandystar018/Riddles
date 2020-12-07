@@ -31,6 +31,5 @@ class Riddle
     {
       Console.WriteLine("Wrong! I ate you,");
     }
-
   }
 }
