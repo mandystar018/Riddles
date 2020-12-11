@@ -1,6 +1,6 @@
 # <span style="color:#0ec2b8">_Riddles_</span>
 
-#### _ Riddles app, 12/07/2020_
+#### _Riddles app, 12/07/2020_
 
 #### By _**Amanda Otero**_
 
