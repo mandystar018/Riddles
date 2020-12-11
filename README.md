@@ -10,7 +10,7 @@ _This console application where the Sphinx asks a riddle and the you must answer
 
 ## <span style="color:#0ec2b8">Setup/Installation Requirements</span>
 ### <span style="color:#c4f4ef">Open Locally</span>
-1. _Navigate to my [Find And Replace repo](https://github.com/mandystar018/Riddles) at https://github.com/mandystar018/Riddles_ to view the project files and commits.
+1. _Navigate to my [Riddles](https://github.com/mandystar018/Riddles) at https://github.com/mandystar018/Riddles_ to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
 3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/mandystar018/Riddles".
 4. _To use this application you will need to install .NET. Please, see instructions below._
